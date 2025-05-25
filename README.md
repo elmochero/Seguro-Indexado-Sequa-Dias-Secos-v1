@@ -43,6 +43,10 @@ Incluye un tutorial en Word con ejemplos paso a paso:
 
 Este proyecto puede ser usado libremente con fines académicos, investigativos o de desarrollo de políticas públicas. Para fines comerciales, por favor contactar al autor.
 
+Este proyecto está licenciado bajo una Licencia **Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**.  
+Consulta el texto completo de la licencia [aquí](https://creativecommons.org/licenses/by-nc/4.0/).
+
+
 ---
 
 ## 🙌 Autor
